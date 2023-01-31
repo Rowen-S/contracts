@@ -1,6 +1,6 @@
 build/
 coverage/
-deployments/*/solcInputs
+deployments/*/solcInputs/
 deployments/localhost/
 lib/
 node_modules/
