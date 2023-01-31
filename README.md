@@ -7,7 +7,7 @@ For more documentation on how the protocol works on a smart contract level, see 
 ## Getting Started
 
 ### Building the Project
-
+ 
 ```sh
 yarn
 yarn build
